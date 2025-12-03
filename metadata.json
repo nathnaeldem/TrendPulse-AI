@@ -1,0 +1,5 @@
+{
+  "name": "TrendPulse AI",
+  "description": "A modern, AI-powered social media content creation suite that leverages Google Gemini Grounding to discover trending news across various sectors and generate viral-ready posts.",
+  "requestFramePermissions": []
+}
